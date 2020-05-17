@@ -1,0 +1,17 @@
+{
+  "name": "covid-19-tracker",
+  "version": "1.0.0",
+  "description": "A data visualization tool for covid-19, this tool helps users to check facts from the trusted sources and keep themselves away from rumors and also try to contain rumour spread.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "covid19",
+    "corona",
+    "veltech",
+    "hackathon20"
+  ],
+  "author": "Hackathon'20",
+  "license": "MIT"
+}
